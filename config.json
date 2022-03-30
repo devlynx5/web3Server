@@ -1,0 +1,15 @@
+{
+
+    "gateway":"wss://gateway.discord.gg/?v=6&encoding=etf&compress=zlib-stream",
+    "salesforceWebHook":"https://denzyl-evelyn-site.secure.force.com/services/apexrest/api/webhooks/pushdetailsdemo",
+    "messageCreate": "MESSAGE_CREATE",
+    "ready":"READY",
+    "guildName": "SFDC-Case-Support",
+    "serverNotFound": "Server not found",
+    "guildCategory":"GUILD_CATEGORY",
+    "guildCategoryName":"SFDC SUPPORT",
+    "channelNotFound":"Channel not found",
+    "guildType":"GUILD_TEXT",
+    "everyone":"@everyone",
+    "UserNotFound":"User not found"
+}
